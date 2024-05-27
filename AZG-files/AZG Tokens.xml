@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <cards>
+
+    <card>
+      <name>Spirit</name>
+      <set>AZG</set>
+      <prop>
+        <colors></colors>
+        <type>Token Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Zombie</name>
+      <set>AZG</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Dragon</name>
+      <set>AZG</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Snake</name>
+      <set>AZG</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Snake </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Spirit1</name>
+      <set>AZG</set>
+      <prop>
+        <colors></colors>
+        <type>Token Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Wolf Spirit</name>
+      <set>AZG</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Wolf Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Monk</name>
+      <set>AZG</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Monk </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Copy</name>
+      <set>AZG</set>
+      <prop>
+        <colors></colors>
+        <type>Token </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This token can be used to represent a token that’s a copy of a permanent.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Mirror</name>
+      <set>AZG</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Mirror </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, Sacrifice this artifact: Return target creature you control to its owner’s hand.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Azgol Draft Archetypes</name>
+      <set>AZG</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>GWU ENCHANTRESS Cast enchantment spells and get bonuses for casting them.
+WUB MAGE SUPREMACY Druid, Shaman, Warlock, and Wizard creatures power your spellcasting.
+UBR CURSE YOU! Curses are back. Pile them onto your opponents. While they suffer under their weight, gain the advantage.
+BRG ASHEN MONSTROSITY Monstrosity returns. Many creatures gain new effects and abilities when you invest mana.
+RGW STRAIN These spells offer extra power for a hefty price. Use other sources of mana production to bypass the downsides.
+WUBRG FABLES New Saga cards with the fable let you choose which chapter to trigger regardless of the order it appears on the card. Careful though, you can still only trigger each chapter once.</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
