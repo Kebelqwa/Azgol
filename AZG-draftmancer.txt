@@ -761,7 +761,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Survivalists Guile.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Survivalists%20Guile.jpg"
 	        }
 	    },
 	    {
